@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\45970\\Desktop\\Csharp\\Csharp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A337A91E-5019-48B2-9EAF-492927630989}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\45970\\desktop\\csharp\\csharp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A337A91E-5019-48B2-9EAF-492927630989}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A081314-A3CB-46C1-87CE-54E1B9FE3641}|HelloCsharp\\HelloCsharp.csproj|C:\\Users\\45970\\Desktop\\Csharp\\Csharp1\\hellocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A081314-A3CB-46C1-87CE-54E1B9FE3641}|HelloCsharp\\HelloCsharp.csproj|solutionrelative:hellocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\45970\\Desktop\\Csharp\\Csharp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\45970\\Desktop\\Csharp\\Csharp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T16:19:41.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\45970\\Desktop\\Csharp\\Csharp1\\HelloCsharp\\Program.cs",
+              "RelativeDocumentMoniker": "HelloCsharp\\Program.cs",
+              "ToolTip": "C:\\Users\\45970\\Desktop\\Csharp\\Csharp1\\HelloCsharp\\Program.cs",
+              "RelativeToolTip": "HelloCsharp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T15:47:46.791Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
