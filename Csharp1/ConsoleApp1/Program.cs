@@ -6,9 +6,11 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    internal class Program
+    //internal class Program
+    class Program
     {
-        static void Main(string[] args)
+        //static void Main(string[] args)
+        void Main(string[] args)
         {
             System.Console.WriteLine("another test");
             Console.ReadKey();

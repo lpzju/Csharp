@@ -1,0 +1,7 @@
+C:\Users\45970\Desktop\Csharp\Csharp1\ExplicitAndImplicit\bin\Debug\ExplicitAndImplicit.exe.config
+C:\Users\45970\Desktop\Csharp\Csharp1\ExplicitAndImplicit\bin\Debug\ExplicitAndImplicit.exe
+C:\Users\45970\Desktop\Csharp\Csharp1\ExplicitAndImplicit\bin\Debug\ExplicitAndImplicit.pdb
+C:\Users\45970\Desktop\Csharp\Csharp1\ExplicitAndImplicit\obj\Debug\ExplicitAndImplicit.csproj.AssemblyReference.cache
+C:\Users\45970\Desktop\Csharp\Csharp1\ExplicitAndImplicit\obj\Debug\ExplicitAndImplicit.csproj.CoreCompileInputs.cache
+C:\Users\45970\Desktop\Csharp\Csharp1\ExplicitAndImplicit\obj\Debug\ExplicitAndImplicit.exe
+C:\Users\45970\Desktop\Csharp\Csharp1\ExplicitAndImplicit\obj\Debug\ExplicitAndImplicit.pdb

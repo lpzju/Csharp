@@ -1,0 +1,7 @@
+C:\Users\45970\Desktop\Csharp\Csharp1\Obj\bin\Debug\Obj.exe.config
+C:\Users\45970\Desktop\Csharp\Csharp1\Obj\bin\Debug\Obj.exe
+C:\Users\45970\Desktop\Csharp\Csharp1\Obj\bin\Debug\Obj.pdb
+C:\Users\45970\Desktop\Csharp\Csharp1\Obj\obj\Debug\Obj.csproj.AssemblyReference.cache
+C:\Users\45970\Desktop\Csharp\Csharp1\Obj\obj\Debug\Obj.csproj.CoreCompileInputs.cache
+C:\Users\45970\Desktop\Csharp\Csharp1\Obj\obj\Debug\Obj.exe
+C:\Users\45970\Desktop\Csharp\Csharp1\Obj\obj\Debug\Obj.pdb

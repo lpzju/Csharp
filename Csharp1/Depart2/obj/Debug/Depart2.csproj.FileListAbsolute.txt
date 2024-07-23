@@ -1,0 +1,10 @@
+C:\Users\45970\Desktop\Csharp\Csharp1\Depart2\bin\Debug\Depart2.exe.config
+C:\Users\45970\Desktop\Csharp\Csharp1\Depart2\bin\Debug\Depart2.exe
+C:\Users\45970\Desktop\Csharp\Csharp1\Depart2\bin\Debug\Depart2.pdb
+C:\Users\45970\Desktop\Csharp\Csharp1\Depart2\bin\Debug\Calculator.dll
+C:\Users\45970\Desktop\Csharp\Csharp1\Depart2\bin\Debug\Calculator.pdb
+C:\Users\45970\Desktop\Csharp\Csharp1\Depart2\obj\Debug\Depart2.csproj.AssemblyReference.cache
+C:\Users\45970\Desktop\Csharp\Csharp1\Depart2\obj\Debug\Depart2.csproj.CoreCompileInputs.cache
+C:\Users\45970\Desktop\Csharp\Csharp1\Depart2\obj\Debug\Depart2.csproj.Up2Date
+C:\Users\45970\Desktop\Csharp\Csharp1\Depart2\obj\Debug\Depart2.exe
+C:\Users\45970\Desktop\Csharp\Csharp1\Depart2\obj\Debug\Depart2.pdb

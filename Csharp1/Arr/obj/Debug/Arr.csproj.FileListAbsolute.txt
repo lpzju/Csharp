@@ -1,0 +1,7 @@
+C:\Users\45970\Desktop\Csharp\Csharp1\Arr\bin\Debug\Arr.exe.config
+C:\Users\45970\Desktop\Csharp\Csharp1\Arr\bin\Debug\Arr.exe
+C:\Users\45970\Desktop\Csharp\Csharp1\Arr\bin\Debug\Arr.pdb
+C:\Users\45970\Desktop\Csharp\Csharp1\Arr\obj\Debug\Arr.csproj.AssemblyReference.cache
+C:\Users\45970\Desktop\Csharp\Csharp1\Arr\obj\Debug\Arr.csproj.CoreCompileInputs.cache
+C:\Users\45970\Desktop\Csharp\Csharp1\Arr\obj\Debug\Arr.exe
+C:\Users\45970\Desktop\Csharp\Csharp1\Arr\obj\Debug\Arr.pdb

@@ -1,0 +1,7 @@
+C:\Users\45970\Desktop\Csharp\Csharp1\inherit\bin\Debug\inherit.exe.config
+C:\Users\45970\Desktop\Csharp\Csharp1\inherit\bin\Debug\inherit.exe
+C:\Users\45970\Desktop\Csharp\Csharp1\inherit\bin\Debug\inherit.pdb
+C:\Users\45970\Desktop\Csharp\Csharp1\inherit\obj\Debug\inherit.csproj.AssemblyReference.cache
+C:\Users\45970\Desktop\Csharp\Csharp1\inherit\obj\Debug\inherit.csproj.CoreCompileInputs.cache
+C:\Users\45970\Desktop\Csharp\Csharp1\inherit\obj\Debug\inherit.exe
+C:\Users\45970\Desktop\Csharp\Csharp1\inherit\obj\Debug\inherit.pdb

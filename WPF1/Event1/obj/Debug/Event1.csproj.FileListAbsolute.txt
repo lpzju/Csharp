@@ -1,0 +1,15 @@
+C:\Users\45970\Desktop\Csharp\WPF1\Event1\bin\Debug\Event1.exe.config
+C:\Users\45970\Desktop\Csharp\WPF1\Event1\bin\Debug\Event1.exe
+C:\Users\45970\Desktop\Csharp\WPF1\Event1\bin\Debug\Event1.pdb
+C:\Users\45970\Desktop\Csharp\WPF1\Event1\obj\Debug\Event1.csproj.AssemblyReference.cache
+C:\Users\45970\Desktop\Csharp\WPF1\Event1\obj\Debug\MainWindow.g.cs
+C:\Users\45970\Desktop\Csharp\WPF1\Event1\obj\Debug\App.g.cs
+C:\Users\45970\Desktop\Csharp\WPF1\Event1\obj\Debug\Event1_MarkupCompile.cache
+C:\Users\45970\Desktop\Csharp\WPF1\Event1\obj\Debug\Event1_MarkupCompile.lref
+C:\Users\45970\Desktop\Csharp\WPF1\Event1\obj\Debug\MainWindow.baml
+C:\Users\45970\Desktop\Csharp\WPF1\Event1\obj\Debug\Event1.g.resources
+C:\Users\45970\Desktop\Csharp\WPF1\Event1\obj\Debug\Event1.Properties.Resources.resources
+C:\Users\45970\Desktop\Csharp\WPF1\Event1\obj\Debug\Event1.csproj.GenerateResource.cache
+C:\Users\45970\Desktop\Csharp\WPF1\Event1\obj\Debug\Event1.csproj.CoreCompileInputs.cache
+C:\Users\45970\Desktop\Csharp\WPF1\Event1\obj\Debug\Event1.exe
+C:\Users\45970\Desktop\Csharp\WPF1\Event1\obj\Debug\Event1.pdb

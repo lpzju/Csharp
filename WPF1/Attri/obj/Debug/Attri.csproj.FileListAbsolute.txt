@@ -1,0 +1,15 @@
+C:\Users\45970\Desktop\Csharp\WPF1\Attri\bin\Debug\Attri.exe.config
+C:\Users\45970\Desktop\Csharp\WPF1\Attri\bin\Debug\Attri.exe
+C:\Users\45970\Desktop\Csharp\WPF1\Attri\bin\Debug\Attri.pdb
+C:\Users\45970\Desktop\Csharp\WPF1\Attri\obj\Debug\Attri.csproj.AssemblyReference.cache
+C:\Users\45970\Desktop\Csharp\WPF1\Attri\obj\Debug\MainWindow.g.cs
+C:\Users\45970\Desktop\Csharp\WPF1\Attri\obj\Debug\App.g.cs
+C:\Users\45970\Desktop\Csharp\WPF1\Attri\obj\Debug\Attri_MarkupCompile.cache
+C:\Users\45970\Desktop\Csharp\WPF1\Attri\obj\Debug\Attri_MarkupCompile.lref
+C:\Users\45970\Desktop\Csharp\WPF1\Attri\obj\Debug\MainWindow.baml
+C:\Users\45970\Desktop\Csharp\WPF1\Attri\obj\Debug\Attri.g.resources
+C:\Users\45970\Desktop\Csharp\WPF1\Attri\obj\Debug\Attri.Properties.Resources.resources
+C:\Users\45970\Desktop\Csharp\WPF1\Attri\obj\Debug\Attri.csproj.GenerateResource.cache
+C:\Users\45970\Desktop\Csharp\WPF1\Attri\obj\Debug\Attri.csproj.CoreCompileInputs.cache
+C:\Users\45970\Desktop\Csharp\WPF1\Attri\obj\Debug\Attri.exe
+C:\Users\45970\Desktop\Csharp\WPF1\Attri\obj\Debug\Attri.pdb

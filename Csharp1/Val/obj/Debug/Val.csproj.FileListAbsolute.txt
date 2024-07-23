@@ -1,0 +1,7 @@
+C:\Users\45970\Desktop\Csharp\Csharp1\Val\bin\Debug\Val.exe.config
+C:\Users\45970\Desktop\Csharp\Csharp1\Val\bin\Debug\Val.exe
+C:\Users\45970\Desktop\Csharp\Csharp1\Val\bin\Debug\Val.pdb
+C:\Users\45970\Desktop\Csharp\Csharp1\Val\obj\Debug\Val.csproj.AssemblyReference.cache
+C:\Users\45970\Desktop\Csharp\Csharp1\Val\obj\Debug\Val.csproj.CoreCompileInputs.cache
+C:\Users\45970\Desktop\Csharp\Csharp1\Val\obj\Debug\Val.exe
+C:\Users\45970\Desktop\Csharp\Csharp1\Val\obj\Debug\Val.pdb

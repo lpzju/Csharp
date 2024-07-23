@@ -1,0 +1,7 @@
+C:\Users\45970\Desktop\Csharp\Csharp1\func\bin\Debug\func.exe.config
+C:\Users\45970\Desktop\Csharp\Csharp1\func\bin\Debug\func.exe
+C:\Users\45970\Desktop\Csharp\Csharp1\func\bin\Debug\func.pdb
+C:\Users\45970\Desktop\Csharp\Csharp1\func\obj\Debug\func.csproj.AssemblyReference.cache
+C:\Users\45970\Desktop\Csharp\Csharp1\func\obj\Debug\func.csproj.CoreCompileInputs.cache
+C:\Users\45970\Desktop\Csharp\Csharp1\func\obj\Debug\func.exe
+C:\Users\45970\Desktop\Csharp\Csharp1\func\obj\Debug\func.pdb

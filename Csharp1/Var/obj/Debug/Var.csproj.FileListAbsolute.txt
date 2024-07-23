@@ -1,0 +1,7 @@
+C:\Users\45970\Desktop\Csharp\Csharp1\Var\obj\Debug\Var.csproj.AssemblyReference.cache
+C:\Users\45970\Desktop\Csharp\Csharp1\Var\obj\Debug\Var.csproj.CoreCompileInputs.cache
+C:\Users\45970\Desktop\Csharp\Csharp1\Var\bin\Debug\Var.exe.config
+C:\Users\45970\Desktop\Csharp\Csharp1\Var\bin\Debug\Var.exe
+C:\Users\45970\Desktop\Csharp\Csharp1\Var\bin\Debug\Var.pdb
+C:\Users\45970\Desktop\Csharp\Csharp1\Var\obj\Debug\Var.exe
+C:\Users\45970\Desktop\Csharp\Csharp1\Var\obj\Debug\Var.pdb
