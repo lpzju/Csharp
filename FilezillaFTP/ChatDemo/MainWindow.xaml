@@ -1,0 +1,63 @@
+﻿<Window x:Class="FileZillaClone.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="FileZilla Clone" Height="600" Width="800">
+    <Grid>
+        <!-- Main Grid Layout -->
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="2*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Toolbar -->
+        <ToolBar Grid.Row="0" Grid.ColumnSpan="3" Background="LightGray">
+            <Button Content="Connect"/>
+            <Button Content="Disconnect"/>
+            <Button Content="Refresh"/>
+            <TextBox Width="200" Margin="5"/> 
+        </ToolBar>
+
+        <!-- Left Panel - Local Files -->
+        <ListView Grid.Row="1" Grid.Column="0" Name="LocalFilesListView">
+            <!-- Columns for Local Files -->
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Name" Width="200" DisplayMemberBinding="{Binding Name}"/>
+                    <GridViewColumn Header="Size" Width="100" DisplayMemberBinding="{Binding Size}"/>
+                    <GridViewColumn Header="Date Modified" Width="150" DisplayMemberBinding="{Binding DateModified}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <!-- Center Panel - Remote Files -->
+        <ListView Grid.Row="1" Grid.Column="1" Name="RemoteFilesListView">
+            <!-- Columns for Remote Files -->
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Name" Width="200" DisplayMemberBinding="{Binding Name}"/>
+                    <GridViewColumn Header="Size" Width="100" DisplayMemberBinding="{Binding Size}"/>
+                    <GridViewColumn Header="Date Modified" Width="150" DisplayMemberBinding="{Binding DateModified}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <!-- Bottom Panel - Transfer Queue -->
+        <ListView Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="3" Name="TransferQueueListView">
+            <!-- Columns for Transfer Queue -->
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="File" Width="300" DisplayMemberBinding="{Binding File}"/>
+                    <GridViewColumn Header="Status" Width="100" DisplayMemberBinding="{Binding Status}"/>
+                    <GridViewColumn Header="Progress" Width="200" DisplayMemberBinding="{Binding Progress}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>

@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\45970\\Desktop\\Csharp\\Csharp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{72C3170A-FF55-47BE-96AA-9C4A130CA95F}|Var\\Var.csproj|c:\\users\\45970\\desktop\\csharp\\csharp1\\var\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72C3170A-FF55-47BE-96AA-9C4A130CA95F}|Var\\Var.csproj|solutionrelative:var\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4BA99CB-A650-4EE8-AF44-F7567B072EE6}|ThisDemo\\ThisDemo.csproj|c:\\users\\45970\\desktop\\csharp\\csharp1\\thisdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BA99CB-A650-4EE8-AF44-F7567B072EE6}|ThisDemo\\ThisDemo.csproj|solutionrelative:thisdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8512997-4F9C-416E-B940-BCCB485B7D61}|Nullable\\Nullable.csproj|c:\\users\\45970\\desktop\\csharp\\csharp1\\nullable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8512997-4F9C-416E-B940-BCCB485B7D61}|Nullable\\Nullable.csproj|solutionrelative:nullable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{276D4981-CDCF-4366-B38B-A51114810D1A}|ExplicitAndImplicit\\ExplicitAndImplicit.csproj|c:\\users\\45970\\desktop\\csharp\\csharp1\\explicitandimplicit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{276D4981-CDCF-4366-B38B-A51114810D1A}|ExplicitAndImplicit\\ExplicitAndImplicit.csproj|solutionrelative:explicitandimplicit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA6464FB-F1D2-4100-B119-6DF98232ADD3}|func\\func.csproj|c:\\users\\45970\\desktop\\csharp\\csharp1\\func\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA6464FB-F1D2-4100-B119-6DF98232ADD3}|func\\func.csproj|solutionrelative:func\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,39 +24,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\45970\\Desktop\\Csharp\\Csharp1\\Var\\Program.cs",
-              "RelativeDocumentMoniker": "Var\\Program.cs",
-              "ToolTip": "C:\\Users\\45970\\Desktop\\Csharp\\Csharp1\\Var\\Program.cs",
-              "RelativeToolTip": "Var\\Program.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAwwCEAAAAxAAAA",
+              "DocumentMoniker": "C:\\Users\\45970\\Desktop\\Csharp\\Csharp1\\ThisDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ThisDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\45970\\Desktop\\Csharp\\Csharp1\\ThisDemo\\Program.cs",
+              "RelativeToolTip": "ThisDemo\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T16:09:42.541Z",
+              "WhenOpened": "2024-07-23T09:25:40.868Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\45970\\Desktop\\Csharp\\Csharp1\\Nullable\\Program.cs",
-              "RelativeDocumentMoniker": "Nullable\\Program.cs",
-              "ToolTip": "C:\\Users\\45970\\Desktop\\Csharp\\Csharp1\\Nullable\\Program.cs",
-              "RelativeToolTip": "Nullable\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABBAAAA",
+              "DocumentMoniker": "C:\\Users\\45970\\Desktop\\Csharp\\Csharp1\\func\\Program.cs",
+              "RelativeDocumentMoniker": "func\\Program.cs",
+              "ToolTip": "C:\\Users\\45970\\Desktop\\Csharp\\Csharp1\\func\\Program.cs",
+              "RelativeToolTip": "func\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAywDQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T14:11:39.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\45970\\Desktop\\Csharp\\Csharp1\\ExplicitAndImplicit\\Program.cs",
-              "RelativeDocumentMoniker": "ExplicitAndImplicit\\Program.cs",
-              "ToolTip": "C:\\Users\\45970\\Desktop\\Csharp\\Csharp1\\ExplicitAndImplicit\\Program.cs",
-              "RelativeToolTip": "ExplicitAndImplicit\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T13:44:05.167Z",
+              "WhenOpened": "2024-07-23T06:16:24.896Z",
               "EditorCaption": ""
             }
           ]

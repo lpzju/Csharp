@@ -30,8 +30,28 @@ namespace func
             y = Convert.ToInt32(Console.ReadLine()) + 2;
         }
     }
+    
+    class Student
+    {
+        public int MyProperty { get; set; }
+        private int myVar;
+
+        public int MyProperty1
+        {
+            get { return myVar; }
+            set { myVar = value; }
+        }
+    }
+
+
+    
     internal class Program
     {
+        static void Test1(Student student) {
+            student.MyProperty = 1;
+            student.MyProperty1 = 2;
+
+        }
         static void Main(string[] args)
         {
             Console.WriteLine(Func.Fact(5));
@@ -42,6 +62,13 @@ namespace func
             Console.WriteLine("Swap after, a : {0}, b : {1}", a, b);
             Func.getValues(out a, out b);
             Console.WriteLine("out after, a : {0}, b : {1}", a, b);
+
+            Student student = new Student();
+            Console.WriteLine(student.MyProperty);
+            Console.WriteLine(student.MyProperty1);
+            Test1 (student);
+            Console.WriteLine(student.MyProperty);
+            Console.WriteLine(student.MyProperty1);
             Console.ReadLine();
         }
     }

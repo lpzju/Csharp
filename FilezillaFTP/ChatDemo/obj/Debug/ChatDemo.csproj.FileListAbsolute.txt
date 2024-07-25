@@ -1,0 +1,14 @@
+C:\Users\45970\Desktop\Csharp\FilezillaFTP\ChatDemo\bin\Debug\ChatDemo.exe.config
+C:\Users\45970\Desktop\Csharp\FilezillaFTP\ChatDemo\bin\Debug\ChatDemo.exe
+C:\Users\45970\Desktop\Csharp\FilezillaFTP\ChatDemo\bin\Debug\ChatDemo.pdb
+C:\Users\45970\Desktop\Csharp\FilezillaFTP\ChatDemo\obj\Debug\ChatDemo.csproj.AssemblyReference.cache
+C:\Users\45970\Desktop\Csharp\FilezillaFTP\ChatDemo\obj\Debug\MainWindow.baml
+C:\Users\45970\Desktop\Csharp\FilezillaFTP\ChatDemo\obj\Debug\MainWindow.g.cs
+C:\Users\45970\Desktop\Csharp\FilezillaFTP\ChatDemo\obj\Debug\App.g.cs
+C:\Users\45970\Desktop\Csharp\FilezillaFTP\ChatDemo\obj\Debug\ChatDemo_MarkupCompile.cache
+C:\Users\45970\Desktop\Csharp\FilezillaFTP\ChatDemo\obj\Debug\ChatDemo.g.resources
+C:\Users\45970\Desktop\Csharp\FilezillaFTP\ChatDemo\obj\Debug\ChatDemo.Properties.Resources.resources
+C:\Users\45970\Desktop\Csharp\FilezillaFTP\ChatDemo\obj\Debug\ChatDemo.csproj.GenerateResource.cache
+C:\Users\45970\Desktop\Csharp\FilezillaFTP\ChatDemo\obj\Debug\ChatDemo.csproj.CoreCompileInputs.cache
+C:\Users\45970\Desktop\Csharp\FilezillaFTP\ChatDemo\obj\Debug\ChatDemo.exe
+C:\Users\45970\Desktop\Csharp\FilezillaFTP\ChatDemo\obj\Debug\ChatDemo.pdb
