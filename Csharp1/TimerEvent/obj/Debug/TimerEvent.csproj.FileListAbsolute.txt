@@ -1,0 +1,8 @@
+C:\Users\wuyanfei\Desktop\CSsharp\Csharp\Csharp1\TimerEvent\bin\Debug\TimerEvent.exe.config
+C:\Users\wuyanfei\Desktop\CSsharp\Csharp\Csharp1\TimerEvent\bin\Debug\TimerEvent.exe
+C:\Users\wuyanfei\Desktop\CSsharp\Csharp\Csharp1\TimerEvent\bin\Debug\TimerEvent.pdb
+C:\Users\wuyanfei\Desktop\CSsharp\Csharp\Csharp1\TimerEvent\obj\Debug\TimerEvent.csproj.AssemblyReference.cache
+C:\Users\wuyanfei\Desktop\CSsharp\Csharp\Csharp1\TimerEvent\obj\Debug\TimerEvent.csproj.SuggestedBindingRedirects.cache
+C:\Users\wuyanfei\Desktop\CSsharp\Csharp\Csharp1\TimerEvent\obj\Debug\TimerEvent.csproj.CoreCompileInputs.cache
+C:\Users\wuyanfei\Desktop\CSsharp\Csharp\Csharp1\TimerEvent\obj\Debug\TimerEvent.exe
+C:\Users\wuyanfei\Desktop\CSsharp\Csharp\Csharp1\TimerEvent\obj\Debug\TimerEvent.pdb

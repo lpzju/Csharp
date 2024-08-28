@@ -1,0 +1,8 @@
+C:\Users\wuyanfei\Desktop\CSsharp\Csharp\Csharp1\DelegateDemo\bin\Debug\DelegateDemo.exe.config
+C:\Users\wuyanfei\Desktop\CSsharp\Csharp\Csharp1\DelegateDemo\bin\Debug\DelegateDemo.exe
+C:\Users\wuyanfei\Desktop\CSsharp\Csharp\Csharp1\DelegateDemo\bin\Debug\DelegateDemo.pdb
+C:\Users\wuyanfei\Desktop\CSsharp\Csharp\Csharp1\DelegateDemo\obj\Debug\DelegateDemo.csproj.AssemblyReference.cache
+C:\Users\wuyanfei\Desktop\CSsharp\Csharp\Csharp1\DelegateDemo\obj\Debug\DelegateDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\wuyanfei\Desktop\CSsharp\Csharp\Csharp1\DelegateDemo\obj\Debug\DelegateDemo.csproj.CoreCompileInputs.cache
+C:\Users\wuyanfei\Desktop\CSsharp\Csharp\Csharp1\DelegateDemo\obj\Debug\DelegateDemo.exe
+C:\Users\wuyanfei\Desktop\CSsharp\Csharp\Csharp1\DelegateDemo\obj\Debug\DelegateDemo.pdb
