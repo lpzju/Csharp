@@ -1,0 +1,11 @@
+C:\Users\wuyanfei\Desktop\CSsharp\Csharp\WPF1\EventTest1\bin\Debug\EventTest1.exe.config
+C:\Users\wuyanfei\Desktop\CSsharp\Csharp\WPF1\EventTest1\bin\Debug\EventTest1.exe
+C:\Users\wuyanfei\Desktop\CSsharp\Csharp\WPF1\EventTest1\bin\Debug\EventTest1.pdb
+C:\Users\wuyanfei\Desktop\CSsharp\Csharp\WPF1\EventTest1\obj\Debug\EventTest1.csproj.AssemblyReference.cache
+C:\Users\wuyanfei\Desktop\CSsharp\Csharp\WPF1\EventTest1\obj\Debug\EventTest1.csproj.SuggestedBindingRedirects.cache
+C:\Users\wuyanfei\Desktop\CSsharp\Csharp\WPF1\EventTest1\obj\Debug\EventTest1.Form1.resources
+C:\Users\wuyanfei\Desktop\CSsharp\Csharp\WPF1\EventTest1\obj\Debug\EventTest1.Properties.Resources.resources
+C:\Users\wuyanfei\Desktop\CSsharp\Csharp\WPF1\EventTest1\obj\Debug\EventTest1.csproj.GenerateResource.cache
+C:\Users\wuyanfei\Desktop\CSsharp\Csharp\WPF1\EventTest1\obj\Debug\EventTest1.csproj.CoreCompileInputs.cache
+C:\Users\wuyanfei\Desktop\CSsharp\Csharp\WPF1\EventTest1\obj\Debug\EventTest1.exe
+C:\Users\wuyanfei\Desktop\CSsharp\Csharp\WPF1\EventTest1\obj\Debug\EventTest1.pdb

@@ -1,0 +1,8 @@
+C:\Users\wuyanfei\Desktop\CSsharp\Csharp\Csharp1\Event1\bin\Debug\Event1.exe.config
+C:\Users\wuyanfei\Desktop\CSsharp\Csharp\Csharp1\Event1\bin\Debug\Event1.exe
+C:\Users\wuyanfei\Desktop\CSsharp\Csharp\Csharp1\Event1\bin\Debug\Event1.pdb
+C:\Users\wuyanfei\Desktop\CSsharp\Csharp\Csharp1\Event1\obj\Debug\Event1.csproj.AssemblyReference.cache
+C:\Users\wuyanfei\Desktop\CSsharp\Csharp\Csharp1\Event1\obj\Debug\Event1.csproj.SuggestedBindingRedirects.cache
+C:\Users\wuyanfei\Desktop\CSsharp\Csharp\Csharp1\Event1\obj\Debug\Event1.csproj.CoreCompileInputs.cache
+C:\Users\wuyanfei\Desktop\CSsharp\Csharp\Csharp1\Event1\obj\Debug\Event1.exe
+C:\Users\wuyanfei\Desktop\CSsharp\Csharp\Csharp1\Event1\obj\Debug\Event1.pdb
